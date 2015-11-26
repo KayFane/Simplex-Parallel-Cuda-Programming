@@ -1,0 +1,386 @@
+[fane@mon54 CSE746Final]$ ./a.out problem.txt
+m=400 n=4400
+Size: 1760000
+grid:32*32; kn: 138; km: 13; 
+LP Algorithm running time:( 0.168113 )s
+Optimum found: 0.000000
+
+
+fval =
+
+     0
+
+
+exitflag =
+
+     1
+
+
+output = 
+
+         iterations: 0
+          algorithm: 'simplex'
+       cgiterations: []
+            message: 'Optimization terminated.'
+    constrviolation: 0
+      firstorderopt: 9.0949e-13
+
+
+lambda = 
+
+    ineqlin: [0x1 double]
+      eqlin: [400x1 double]
+      upper: [4400x1 double]
+      lower: [4400x1 double]
+
+Elapsed time is 0.613690 seconds.
+
+
+**********************************************************************
+[fane@mon54 CSE746Final]$ ./a.out problem.txt
+m=4000 n=8000
+Size: 32000000
+grid:32*32; kn: 250; km: 125; 
+LP Algorithm running time:( 2.511953 )s
+Optimum found: 0.000000
+
+
+fval =
+
+     0
+
+
+exitflag =
+
+     1
+
+
+output = 
+
+         iterations: 0
+          algorithm: 'simplex'
+       cgiterations: []
+            message: 'Optimization terminated.'
+    constrviolation: 0
+      firstorderopt: 0
+
+
+lambda = 
+
+    ineqlin: [0x1 double]
+      eqlin: [4000x1 double]
+      upper: [8000x1 double]
+      lower: [8000x1 double]
+
+Elapsed time is 9.389996 seconds.
+
+
+*****************************************************************************
+
+[fane@mon54 CSE746Final]$ ./a.out problem.txt
+m=40 n=440
+Size: 17600
+grid:32*32; kn: 14; km: 2; 
+LP Algorithm running time:( 0.159543 )s
+Optimum found: 24.837311
+
+
+fval =
+
+  -24.8373
+
+
+exitflag =
+
+     1
+
+
+output = 
+
+         iterations: 20
+          algorithm: 'simplex'
+       cgiterations: []
+            message: 'Optimization terminated.'
+    constrviolation: 8.5265e-14
+      firstorderopt: 5.6843e-14
+
+
+lambda = 
+
+    ineqlin: [0x1 double]
+      eqlin: [40x1 double]
+      upper: [440x1 double]
+      lower: [440x1 double]
+
+Elapsed time is 0.109366 seconds
+
+********************************************************************
+[fane@mon54 CSE746Final]$ ./a.out problem.txt
+m=4 n=44
+Size: 176
+grid:32*32; kn: 2; km: 1; 
+LP Algorithm running time:( 0.155564 )s
+Optimum found: 169.452011
+
+fval =
+
+ -169.4520
+
+
+exitflag =
+
+     1
+
+
+output = 
+
+         iterations: 5
+          algorithm: 'simplex'
+       cgiterations: []
+            message: 'Optimization terminated.'
+    constrviolation: 1.4211e-14
+      firstorderopt: 4.2633e-14
+
+
+lambda = 
+
+    ineqlin: [0x1 double]
+      eqlin: [4x1 double]
+      upper: [44x1 double]
+      lower: [44x1 double]
+
+Elapsed time is 0.047554 seconds.
+
+
+
+**********************************************************************
+m=40 n=80
+Size: 3200
+grid:32*32; kn: 3; km: 2; 
+LP Algorithm running time:( 0.157050 )s
+Optimum found: 0.000000
+
+
+fval =
+
+     0
+
+
+exitflag =
+
+     1
+
+
+output = 
+
+         iterations: 0
+          algorithm: 'simplex'
+       cgiterations: []
+            message: 'Optimization terminated.'
+    constrviolation: 0
+      firstorderopt: 0
+
+
+lambda = 
+
+    ineqlin: [0x1 double]
+      eqlin: [40x1 double]
+      upper: [80x1 double]
+      lower: [80x1 double]
+
+Elapsed time is 0.021587 seconds.
+
+
+********************************************************************
+[fane@mon54 CSE746Final]$ ./a.out problem.txt
+m=400 n=800
+Size: 320000
+grid:32*32; kn: 25; km: 13; 
+LP Algorithm running time:( 0.160943 )s
+Optimum found: 0.000000
+
+
+fval =
+
+     0
+
+
+exitflag =
+
+     1
+
+
+output = 
+
+         iterations: 0
+          algorithm: 'simplex'
+       cgiterations: []
+            message: 'Optimization terminated.'
+    constrviolation: 0
+      firstorderopt: 9.0949e-13
+
+
+lambda = 
+
+    ineqlin: [0x1 double]
+      eqlin: [400x1 double]
+      upper: [800x1 double]
+      lower: [800x1 double]
+
+Elapsed time is 0.202955 seconds.
+
+************************************************************************
+[fane@mon54 CSE746Final]$ ./a.out problem.txt
+m=1000 n=2000
+Size: 2000000
+grid:32*32; kn: 63; km: 32; 
+LP Algorithm running time:( 0.186371 )s
+Optimum found: 0.000000
+
+
+fval =
+
+     0
+
+
+exitflag =
+
+     1
+
+
+output = 
+
+         iterations: 0
+          algorithm: 'simplex'
+       cgiterations: []
+            message: 'Optimization terminated.'
+    constrviolation: 0
+      firstorderopt: 0
+
+
+lambda = 
+
+    ineqlin: [0x1 double]
+      eqlin: [1000x1 double]
+      upper: [2000x1 double]
+      lower: [2000x1 double]
+
+Elapsed time is 0.777857 seconds.
+
+************************************************************
+[fane@mon54 CSE746Final]$ ./a.out problem.txt
+m=100 n=1100
+Size: 110000
+grid:32*32; kn: 35; km: 4; 
+LP Algorithm running time:( 0.156384 )s
+Optimum found: 0.000000
+
+
+fval =
+
+     0
+
+
+exitflag =
+
+     1
+
+
+output = 
+
+         iterations: 0
+          algorithm: 'simplex'
+       cgiterations: []
+            message: 'Optimization terminated.'
+    constrviolation: 0
+      firstorderopt: 9.0949e-13
+
+
+lambda = 
+
+    ineqlin: [0x1 double]
+      eqlin: [100x1 double]
+      upper: [1100x1 double]
+      lower: [1100x1 double]
+
+Elapsed time is 0.065882 seconds.
+
+
+***************************************************************
+[fane@mon54 CSE746Final]$ ./a.out problem.txt
+m=10 n=1010
+Size: 10100
+grid:32*32; kn: 32; km: 1; 
+LP Algorithm running time:( 0.158837 )s
+Optimum found: 53.308044
+
+
+fval =
+
+  -53.3080
+
+
+exitflag =
+
+     1
+
+
+output = 
+
+         iterations: 5
+          algorithm: 'simplex'
+       cgiterations: []
+            message: 'Optimization terminated.'
+    constrviolation: 1.4211e-14
+      firstorderopt: 2.2737e-13
+
+
+lambda = 
+
+    ineqlin: [0x1 double]
+      eqlin: [10x1 double]
+      upper: [1010x1 double]
+      lower: [1010x1 double]
+
+Elapsed time is 0.048292 seconds.
+
+***************************************************************************
+[fane@mon54 CSE746Final]$ ./a.out problem.txt
+m=1000 n=1100
+Size: 1100000
+grid:32*32; kn: 35; km: 32; 
+LP Algorithm running time:( 0.168958 )s
+Optimum found: 0.000000
+
+fval =
+
+     0
+
+
+exitflag =
+
+     1
+
+
+output = 
+
+         iterations: 0
+          algorithm: 'simplex'
+       cgiterations: []
+            message: 'Optimization terminated.'
+    constrviolation: 0
+      firstorderopt: 0
+
+
+lambda = 
+
+    ineqlin: [0x1 double]
+      eqlin: [1000x1 double]
+      upper: [1100x1 double]
+      lower: [1100x1 double]
+
+Elapsed time is 0.497276 seconds.
+
+
+
+
